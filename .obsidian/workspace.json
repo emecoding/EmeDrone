@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "6102e08dfa82b8a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "82f7139bf2f17c45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73388a60c488aaaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9eafb709f976030d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6948f729b0d81fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12974cdf8f9f4764",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "847107e5de72c160",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60eb9a2eec126a28",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "20ab89a1e406282b",
+    "type": "split",
+    "children": [
+      {
+        "id": "85229aa7d4781e54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "785df55255d30593",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "General Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60a077a7ce8f2ccf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "General Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "22ad8cd7c78ec3ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "838dba1c8876b7a3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "General Notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "73388a60c488aaaf",
+  "lastOpenFiles": [
+    "DroneCAD.FCStd.9dfae364-cc1e-4c92-a45b-85e53b3b14ae",
+    "DroneCAD.FCStd.e32b81ac-677c-4ee2-954f-afe0397b99e8",
+    "DroneCAD.FCStd.e48183a3-6aac-4ea1-9875-965cbcc7de78",
+    "DroneCAD.FCStd.8dd0a367-9880-4409-b010-15e469596888",
+    "DroneCAD.FCStd.b27e59af-dee5-4a36-b89b-2cf95801f354",
+    "DroneCAD.FCStd.5571f745-ae5c-40e2-ba38-e53c4552013e",
+    "DroneCAD.FCStd.b4c75f91-b8b3-4331-ac08-2fdddf6d0ec0",
+    "DroneCAD.FCStd.adce03d9-a2ac-4237-9e70-181d2cf34846",
+    "DroneCAD.FCStd.c0148c50-80ce-4dfd-b092-56ba99fd88e8",
+    "DroneCAD.FCStd.430fdb6d-2ac8-4899-82bc-836d6849b71e",
+    "DroneCAD.FCStd.384cf9eb-0b4f-4efa-8022-22d71894d3a1",
+    "Pasted image 20230720151219.png",
+    "General Notes.md",
+    "Pasted image 20230715105604.png",
+    "Pasted image 20230715104841.png"
+  ]
+}
